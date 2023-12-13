@@ -3,9 +3,9 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="root">
-      <h1> Rendered in a</h1>
-      <p>I am learning React. My life is getting better.</p>
+    <div id="main">
+      <h1> Welcome to My React App</h1>
+      <p id="root">I am learning React. My life is getting better.</p>
     </div>
   )
 }
